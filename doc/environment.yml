@@ -1,0 +1,8 @@
+name: splinart
+dependencies:
+  - notebook
+  - sphinx
+  - nbsphinx
+
+python:
+  version: 3.6

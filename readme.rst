@@ -18,4 +18,5 @@ or::
 
     conda install -c gouarin splinart
 
-.. image:: https://mybinder.org/badge.svg :target: https://mybinder.org/v2/gh/CoralieXXC/splinart/master
+.. image:: https://mybinder.org/badge.svg
+   :target: https://mybinder.org/v2/gh/CoralieXXC/splinart/master

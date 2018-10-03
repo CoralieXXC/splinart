@@ -1,6 +1,6 @@
 name: splinart
 channels:
-  - gouarin
+  - CoralieXXC
 dependencies:
   - python=3.6
   - splinart

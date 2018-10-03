@@ -1,4 +1,3 @@
-@pytest.mark.skip(reason="no way of currently testing this")
 import os
 import splinart as spl
 import numpy as np
@@ -18,6 +17,7 @@ def load_json(datadir, request):
     return datadir, tmp
 
 @pytest.mark.long
+@pytest.mark.skip(reason="no way of currently testing this")
 def test_case(tmpdir, load_json):
 
     datadir, js = load_json
